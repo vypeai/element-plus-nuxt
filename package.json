@@ -39,6 +39,7 @@
   "dependencies": {
     "@nuxt/kit": "3.6.5",
     "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7",
+    "dayjs": "1.11.9",
     "magic-string": "0.30.2",
     "unplugin": "1.4.0"
   },
